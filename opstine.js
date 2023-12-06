@@ -62,7 +62,6 @@ export const opstine = [
     code: "136",
     canton: "Bosansko-podrinjski kanton Goražde",
   },
-  { name: "SREDNJOBOSANSKI KANTON", code: "", canton: "" },
   { name: "Bugojno", code: "017", canton: "Srednjobosanski kanton" },
   { name: "Busovača", code: "018", canton: "Srednjobosanski kanton" },
   {
